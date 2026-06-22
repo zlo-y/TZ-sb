@@ -30,6 +30,8 @@ Management System
 
     Архитектура: RESTful API.
 
+    База данных - SQLite
+
 Запуск проекта
 Backend
 

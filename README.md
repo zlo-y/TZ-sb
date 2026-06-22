@@ -26,7 +26,9 @@ Management System
 
     Frontend: Vue.js 3 (Composition API), Tailwind CSS.
 
-    Backend: ASP.NET Core Web API (C#).
+    Backend: ASP.NET Core Web API (C#). 
+
+    MVC архитектура
 
     Архитектура: RESTful API.
 

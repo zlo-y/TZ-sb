@@ -1,0 +1,15 @@
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/bin/Debug/net10.0/Manager.BusinessLogic.deps.json
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/bin/Debug/net10.0/Manager.BusinessLogic.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/bin/Debug/net10.0/Manager.BusinessLogic.pdb
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/bin/Debug/net10.0/Manager.DataAccess.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/bin/Debug/net10.0/Manager.DataAccess.pdb
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.csproj.AssemblyReference.cache
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.AssemblyInfoInputs.cache
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.AssemblyInfo.cs
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.csproj.CoreCompileInputs.cache
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager..41EC29EA.Up2Date
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/refint/Manager.BusinessLogic.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/Manager.BusinessLogic.pdb
+/home/incred1ble/Рабочий стол/ТЗ/Manager.BusinessLogic/obj/Debug/net10.0/ref/Manager.BusinessLogic.dll

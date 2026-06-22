@@ -1,0 +1,12 @@
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/bin/Debug/net10.0/Manager.DataAccess.deps.json
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/bin/Debug/net10.0/Manager.DataAccess.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/bin/Debug/net10.0/Manager.DataAccess.pdb
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.AssemblyInfoInputs.cache
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.AssemblyInfo.cs
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.csproj.CoreCompileInputs.cache
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/refint/Manager.DataAccess.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.pdb
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/ref/Manager.DataAccess.dll
+/home/incred1ble/Рабочий стол/ТЗ/Manager.DataAccess/obj/Debug/net10.0/Manager.DataAccess.csproj.AssemblyReference.cache

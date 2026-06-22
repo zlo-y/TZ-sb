@@ -22,7 +22,7 @@ public class AppDbContext: IdentityDbContext
             .HasKey(pe => new { pe.ProjectId, pe.EmployeeId });
 
 // 
-// Модель для связи многие-ко-многим между проектами и сотрудниками.
+// Many-to-many relationship configuration for Projects and Employees.
 // 
         modelBuilder.Entity<ProjectEmployee>()
             .HasOne(pe => pe.Project)
@@ -37,7 +37,7 @@ public class AppDbContext: IdentityDbContext
             .OnDelete(DeleteBehavior.Cascade);
 
 // 
-// Рук.проекта 
+// Project Manager configuration.
 // 
         modelBuilder.Entity<Project>()
             .HasOne(p => p.Manager)
@@ -46,7 +46,7 @@ public class AppDbContext: IdentityDbContext
             .OnDelete(DeleteBehavior.Restrict);
 
 // 
-// Доки проекта
+// Project Documents configuration.
 // 
         modelBuilder.Entity<ProjectDocument>()
             .HasOne(pd => pd.Project)
@@ -55,7 +55,7 @@ public class AppDbContext: IdentityDbContext
             .OnDelete(DeleteBehavior.Cascade);
 
 // 
-// Задача => Автор, Исполнитель, Проект
+// Project Task configuration (Author, Executor, Project).
 // 
         modelBuilder.Entity<ProjectTask>()
             .HasOne(pt => pt.Author)
